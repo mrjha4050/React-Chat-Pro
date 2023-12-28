@@ -62,6 +62,7 @@ REACT_APP_CHAT_ENGINE_PRIVATE_KEY=your-private-key
 ### Run the Application
 After completing the installation and configuration, run the following command to start the development server:
 
+#### note : you have to start backened and frontend both seprately using same command for both 
 ```
 npm start
 ```
