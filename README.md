@@ -62,9 +62,14 @@ REACT_APP_CHAT_ENGINE_PRIVATE_KEY=your-private-key
 ### Run the Application
 After completing the installation and configuration, run the following command to start the development server:
 
-#### note : you have to start backened and frontend both seprately using same command for both 
+#### note : you have to start backened and frontend both seprately , for starting backend server you have to use below command
 ```
 npm start
+```
+
+#### note : for starting frontend server you have to use below command
+```
+npm run-dev
 ```
 
 Visit `http://localhost:3000` in your web browser to access ReactChatPro.
