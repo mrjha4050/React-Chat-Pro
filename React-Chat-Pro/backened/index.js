@@ -24,11 +24,16 @@
 
 // Above code can be use to for without using environment
 
+
+
+
 // Below code can be used for usign env 
 
 const express = require("express");
 const cors = require("cors");
 const { default: axios } = require("axios");
+require('dotenv').config()
+
 
 const app = express();
 app.use(express.json());
