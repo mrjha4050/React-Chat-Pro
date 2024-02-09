@@ -1,5 +1,6 @@
 body {
-  background-image: url('./assets/valley.jpeg');
+  /* background-image: url('./assets/valley.jpeg'); */
+  background-color: #3e404b;
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
